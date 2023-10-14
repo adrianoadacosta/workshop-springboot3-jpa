@@ -13,15 +13,15 @@
 
 ## Modelo conceitual
 
-![Modelo Conceitual](https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/springboot-jpa/Domain%20model.png)
+![Modelo Conceitual](https://github.com/adrianoadacosta/workshop-springboot3-jpa/blob/main/springboot-jpa/Domain%20model.png)
 
 ## Modelo de instancia
 
-![Modelo de instancia](https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/springboot-jpa/Domain%20instance.png)
+![Modelo de instancia](https://github.com/adrianoadacosta/workshop-springboot3-jpa/blob/main/springboot-jpa/Domain%20instance.png)
 
 ## Modelo de camada logica de negócios
 
-![Modelo de camada logica de negócios](https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/springboot-jpa/Logical%20layers.png)
+![Modelo de camada logica de negócios](https://github.com/adrianoadacosta/workshop-springboot3-jpa/blob/main/springboot-jpa/Logical%20layers.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -30,7 +30,7 @@
 - JPA / Hibernate
 - Maven
 
-  ![frameworks](https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/springboot-jpa/frameworks.png)
+  ![frameworks](https://github.com/adrianoadacosta/workshop-springboot3-jpa/blob/main/springboot-jpa/frameworks.png)
 
 # Agradecimento
 
